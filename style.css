@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    background-color: blueviolet;
+    background-size: cover;
+    color: white;
+    margin: 0;
+}
+
+#clock {
+    font-size: 3.5rem;
+    background: rgba(9, 8, 8, 0.2);
+    padding: 30px 40px;
+    border-radius: 10px;
+    border: black;
+}
